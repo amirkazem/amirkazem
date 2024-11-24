@@ -3,20 +3,18 @@
 - 👀 I’m interested in Data Science & Machine Learning.
 - 🌱 I’m currently learning Deep Learning.
 - 📫 How to reach me  : amirkazem.ir &  www.linkedin.com/in/amir-kazem/
-
+python
 R
+SQL
 github
 javascript
 css
-python
 c#
 git
-java
 html
 php
 html5
-csharp
-js
+
 
 
 
